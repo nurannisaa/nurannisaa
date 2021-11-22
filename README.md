@@ -4,7 +4,7 @@ I am graduated from Bandung Institute of Technology majoring in Water Resources 
 
 I publish my personal project here. If you find anything wrong in my publications or you have any suggestions for me, please kindly inform me :)
 
-Write to me : (https://www.linkedin.com/in/nurannisaachmad/)
+Write to me : linkedin.com/in/nurannisaachmad
 
 <!--
 **nurannisaa/nurannisaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
