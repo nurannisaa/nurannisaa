@@ -6,8 +6,8 @@ I am graduated from Bandung Institute of Technology with Bachelor's degree and n
 I publish my personal project related to data science here. If you find anything odd in my publications or you have any suggestions for me, kindly contact me directly 😄
 
 ### 📫 How to reach me 📫
-e-mail : nurannisaachmad10@gmail.com
-LinkedIn : www.linkedin.com/in/nurannisaachmad
+- e-mail : nurannisaachmad10@gmail.com
+- LinkedIn : www.linkedin.com/in/nurannisaachmad
 
 <!--
 **nurannisaa/nurannisaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
