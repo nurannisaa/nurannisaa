@@ -1,10 +1,13 @@
-## Hi, I'm Annisa! 👋
-### About Me 😄
-I am graduated from Bandung Institute of Technology majoring in Water Resources Engineering and Management. I am currently working as a consultant assistant working in the irrigation sector. Somehow I really enjoy working with data and I'm currently studying data science in general. 
+## 👋 Hi, I'm Annisa! 👋
+### ✨ About Me ✨
 
-I publish my personal project here. If you find anything wrong in my publications or you have any suggestions for me, please kindly inform me :)
+I am graduated from Bandung Institute of Technology with Bachelor's degree and now working as a consultant assistant working in the irrigation sector. Currently, I'm trying to expand my knowledge and upgrade my skills by learning data science. I really enjoy the process of working with data and exploring new things from the process of analyzing data. I await the opportunity to work as a data scientist and do more cool stuff in the future!
 
-Write to me : linkedin.com/in/nurannisaachmad
+I publish my personal project related to data science here. If you find anything odd in my publications or you have any suggestions for me, kindly contact me directly 😄
+
+### 📫 How to reach me 📫
+e-mail : nurannisaachmad10@gmail.com
+LinkedIn : www.linkedin.com/in/nurannisaachmad
 
 <!--
 **nurannisaa/nurannisaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
