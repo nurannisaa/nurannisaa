@@ -1,9 +1,9 @@
-## 👋 Hi, I'm Annisa! 👋
-### ✨ About Me ✨
+## Hi, I'm Annisa! 👋
+### About Me
 
 I publish my personal project related to data science here. If you find something wrong in my publications or if you have any suggestions for me, kindly contact me directly 😄
 
-### 📫 How to reach me 📫
+### 📫 How to reach me
 - e-mail : nurannisaachmad10@gmail.com
 - LinkedIn : www.linkedin.com/in/nurannisaachmad
 
